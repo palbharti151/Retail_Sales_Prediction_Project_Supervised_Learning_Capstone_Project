@@ -1,0 +1,2 @@
+# Retail_Sales_Prediction_Project_Supervised_Learning_Capstone_Project
+"Using historical sales data and store attributes, this project applies supervised learning techniques to forecast retail sales trends. By leveraging machine learning models like Linear Regression, Decision Trees, and Random Forests, it aims to optimize sales predictions for effective inventory management and business planning."
